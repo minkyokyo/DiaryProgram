@@ -6,3 +6,8 @@ just for fun~
 
 `pip install pyqt5` 로 pyqt5를 설치  
 `pip install pyqt5-tools` 으로 설치
+
+# VSCode Extension
+* Python
+* Python for VSCode
+* Python Extension Pack
