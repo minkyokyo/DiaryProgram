@@ -15,3 +15,7 @@ just for fun~
 - PYQT Integration
   extension setting에서 Qtdesigner: Path에 아래 주소 경로 입력
   python설치경로\Lib\site-packages\qt5_applications\Qt\bin\designer.exe
+
+# .ui -> .py 파일로 변환
+
+- python -m PyQt5.uic.pyuic -x untitled.ui -o untitled.py
